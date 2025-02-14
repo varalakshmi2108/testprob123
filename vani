@@ -1,2 +1,7 @@
+
 this is a git repository
+<<<<<<< HEAD
 this is second line
+=======
+this  is second line
+>>>>>>> 196695a61ba1625b456a08361bbb60004e568e3f
